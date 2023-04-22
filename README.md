@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Add TorchScript Docs Integrations Page (#8501)
