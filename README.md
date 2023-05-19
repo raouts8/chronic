@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Fix PNNX ubuntu -> linux bug (#7050)
