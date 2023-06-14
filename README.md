@@ -1,1 +1,1 @@
-fix print val map
+Add Amazon Sagemaker Docs integrations page (#7293)
