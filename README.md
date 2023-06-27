@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
