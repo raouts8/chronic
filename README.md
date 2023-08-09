@@ -1,1 +1,1 @@
-Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
