@@ -1,1 +1,1 @@
-Reverse IoU threshold for NMS docs descriptions (#9151)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
