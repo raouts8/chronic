@@ -1,1 +1,1 @@
-example Google Colab
+Retry once for Docker CI failures (#8164)
