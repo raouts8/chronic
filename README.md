@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Update H1 in Explorer API docs (#7813)
