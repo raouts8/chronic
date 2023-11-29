@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Expand Model method type hinting (#8279)
