@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Update mkdocs.yml (#7693)
