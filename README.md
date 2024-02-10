@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+Fix ONNX GPU inference bug (#6840)
