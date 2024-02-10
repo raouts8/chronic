@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Add horizontal Mosaic3 augmentation (#6898)
