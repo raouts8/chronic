@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Update mkdocs.yml (#7693)
