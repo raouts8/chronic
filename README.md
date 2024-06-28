@@ -1,1 +1,1 @@
-ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
