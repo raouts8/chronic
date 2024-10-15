@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
