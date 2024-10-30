@@ -1,1 +1,1 @@
-add yolov10
+fix predict with class filter
